@@ -47,7 +47,7 @@ La ventaja de utilizar un `struct` es que permite agrupar datos relacionados den
 En la función `main()` se crea una variable llamada `miEntidad`:
 
 ```cpp
-EntidadProyecto miEntidad = {0, "Vacio - [Su Nombre y Apellido]", 0.0f};
+EntidadProyecto miEntidad = {0, "Vacio - Mikaela ", 0.0f};
 ```
 
 De esta manera, la estructura comienza con valores iniciales antes de que el usuario ingrese los datos.
@@ -55,7 +55,7 @@ De esta manera, la estructura comienza con valores iniciales antes de que el usu
 Los valores iniciales son:
 
 * `id = 0`
-* `nombre = "Vacio - [Su Nombre y Apellido]"`
+* `nombre = "Vacio - Mikaela Batirola"`
 * `metrica = 0.0`
 
 ---
